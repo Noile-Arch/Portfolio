@@ -18,7 +18,7 @@ const Info = () => {
         <p className=" font-semibold md:text-[25px] text-[20px]">
           Contact me for free consultation
         </p>
-        <div className="my-4 ease-in-out text-[white]">
+        <div className="my-4 ease-in-out text-[white] ">
           <button className="px-5 py-3 bg-[#646cff] rounded-[50px] hover:border-[#646cff] hover:bg-black/70 hover:text-[#646cff] hover:border-2">
             Contact me
           </button>
